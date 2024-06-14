@@ -8,7 +8,7 @@
 
 ## [Redocly CLI Commands](https://redocly.com/docs/cli/commands/#redocly-cli-commands)
 
-### lint
+### Lint
 
 ```sh
 redocly lint sample_api.yaml
