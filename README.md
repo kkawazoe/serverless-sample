@@ -17,7 +17,7 @@ redocly lint sample_api.yaml
 ### Generate HTML file
 
 ```sh
-redocly build-docs sample_api.yaml --output=outputs/sampla_api.html
+redocly build-docs sample_api.yaml --output=outputs/sample_api.html
 ```
 
 ## Trouble Shooting
