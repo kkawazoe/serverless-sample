@@ -14,6 +14,12 @@
 redocly lint sample_api.yaml
 ```
 
+### Preview Docs
+
+```sh
+redocly preview-docs sample_api.yaml 
+```
+
 ### Generate HTML file
 
 ```sh
