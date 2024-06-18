@@ -4,6 +4,9 @@ info:
   title: Swagger Pet Store
 servers:
   - url: http://localhost:3000/v1
+tags:
+  - name: pets
+    description: Everything about your Pets
 paths:
   /pets:
     get:
