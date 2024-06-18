@@ -11,19 +11,19 @@
 ### Lint
 
 ```sh
-redocly lint open_api/sample.yaml
+redocly lint open_api/sample_api.yaml
 ```
 
 ### Preview Docs
 
 ```sh
-redocly preview-docs open_api/sample.yaml 
+redocly preview-docs open_api/sample_api.yaml
 ```
 
 ### Generate HTML file
 
 ```sh
-redocly build-docs open_api/sample.yaml --output=outputs/sample_api.html
+redocly build-docs open_api/sample_api.yaml --output=outputs/sampla_api.html
 ```
 
 ## Trouble Shooting
