@@ -17,3 +17,10 @@ rules:
   info-license: off
   info-license-url: off
   operation-operationId: off
+
+theme:
+  openapi:
+    hideDownloadButton: true
+    schemaExpansionLevel: all
+    expandResponses: all
+    jsonSampleExpandLevel: all

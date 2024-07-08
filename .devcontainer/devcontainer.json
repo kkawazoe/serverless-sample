@@ -21,8 +21,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "Redocly.openapi-vs-code",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "HashiCorp.terraform"
       ],
       "settings": {
         "editor.insertSpaces": true,
